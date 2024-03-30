@@ -65,7 +65,7 @@ We've added Theme Check to Dawn's [list of VS Code extensions](/.vscode/extensio
 You can also run it from a terminal with the following Shopify CLI command:
 
 ```bash
-shopify theme chec
+shopify theme check
 ```
 
 ### Continuous Integration
